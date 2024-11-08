@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\ScriptMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\ScriptMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE06AE-A4F4-8BFB-90E0-B45426484492}|Assembly-CSharp.csproj|c:\\users\\seif\\downloads\\camera roll\\camera roll\\assets\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE06AE-A4F4-8BFB-90E0-B45426484492}|Assembly-CSharp.csproj|solutionrelative:assets\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seif\\Downloads\\Open Camera\\Open Camera\\CameraManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471FE9F9-F14D-6941-BCD0-236E0011A80F}|Assembly-CSharp-firstpass.csproj|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\assets\\plugins\\save load\\savephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471FE9F9-F14D-6941-BCD0-236E0011A80F}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\plugins\\save load\\savephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\NativeFilePicker\\Android\\AndroidManifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\NativeFilePicker\\Android\\AndroidManifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11550C40-28D7-59C3-44FC-A6BF2333B959}|NativeFilePicker.Runtime.csproj|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\assets\\plugins\\nativefilepicker\\android\\fppermissioncallbackandroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11550C40-28D7-59C3-44FC-A6BF2333B959}|NativeFilePicker.Runtime.csproj|solutionrelative:assets\\plugins\\nativefilepicker\\android\\fppermissioncallbackandroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11550C40-28D7-59C3-44FC-A6BF2333B959}|NativeFilePicker.Runtime.csproj|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\assets\\plugins\\nativefilepicker\\ios\\nativefilepicker.mm||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{11550C40-28D7-59C3-44FC-A6BF2333B959}|NativeFilePicker.Runtime.csproj|solutionrelative:assets\\plugins\\nativefilepicker\\ios\\nativefilepicker.mm||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScriptMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\ScriptMachine.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\ScriptMachine.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\ScriptMachine.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\ScriptMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:47:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Open Camera\\Open Camera\\CameraManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\Open Camera\\Open Camera\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Open Camera\\Open Camera\\CameraManager.cs",
+              "RelativeToolTip": "..\\..\\Open Camera\\Open Camera\\CameraManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:54:28.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitBase.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAAwIIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:15:08.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaticActionInvoker_1.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:55:07.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AndroidManifest.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\NativeFilePicker\\Android\\AndroidManifest.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\NativeFilePicker\\Android\\AndroidManifest.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\NativeFilePicker\\Android\\AndroidManifest.cs",
+              "RelativeToolTip": "Assets\\Plugins\\NativeFilePicker\\Android\\AndroidManifest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:12:49.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\CameraManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:35:50.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticActionInvoker_1.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Runtime\\VisualScripting.Core\\Reflection\\Optimization\\StaticActionInvoker_1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:09:27.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavePhoto.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\Save Load\\SavePhoto.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Save Load\\SavePhoto.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\Save Load\\SavePhoto.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Save Load\\SavePhoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:55:59.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitBase.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1.7.6\\Editor\\VisualScripting.Flow\\Options\\UnitBase.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwIIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:16:03.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FPPermissionCallbackAndroid.cs",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\NativeFilePicker\\Android\\FPPermissionCallbackAndroid.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\NativeFilePicker\\Android\\FPPermissionCallbackAndroid.cs",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\NativeFilePicker\\Android\\FPPermissionCallbackAndroid.cs",
+              "RelativeToolTip": "Assets\\Plugins\\NativeFilePicker\\Android\\FPPermissionCallbackAndroid.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:01:53.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NativeFilePicker.mm",
+              "DocumentMoniker": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\NativeFilePicker\\iOS\\NativeFilePicker.mm",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\NativeFilePicker\\iOS\\NativeFilePicker.mm",
+              "ToolTip": "C:\\Users\\Seif\\Downloads\\Camera Roll\\Camera Roll\\Assets\\Plugins\\NativeFilePicker\\iOS\\NativeFilePicker.mm",
+              "RelativeToolTip": "Assets\\Plugins\\NativeFilePicker\\iOS\\NativeFilePicker.mm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-27T18:25:45.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
